@@ -484,7 +484,7 @@ export default function Home() {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-              I'm always open to new opportunities and collaborations. Feel free to reach out!
+              I&apos;m always open to new opportunities and collaborations. Feel free to reach out!
             </p>
             <div className="flex justify-center space-x-6">
               <motion.a

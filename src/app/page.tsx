@@ -179,7 +179,7 @@ export default function Home() {
               <p className="text-gray-600 dark:text-gray-300 mb-4">Mar 2020 - Feb 2022</p>
               <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 space-y-2">
                 <li>Developed high-performance REST APIs using Spring Boot and MVC frameworks</li>
-                <li>Contributed to "Nancy Kiberman" project, implementing real-time updates using WebSockets</li>
+                <li>Contributed to &quot;Nancy Kiberman&quot; project, implementing real-time updates using WebSockets</li>
                 <li>Built RESTful APIs Using Node.Js, improving data retrieval by 25%</li>
                 <li>Integrated real-time features with WebSockets and Socket.IO, reducing response time by 35%</li>
                 <li>Automated CI/CD pipelines with Jenkins and GitLab CI, streamlining deployment process</li>
@@ -250,12 +250,14 @@ export default function Home() {
                 Interactive PDF chat application that allows users to ask questions about PDF documents and get AI-powered responses.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">Python</span>
+                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">TypeScript</span>
+                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">React</span>
+                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">Supabase</span>
                 <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">AI</span>
-                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">PDF Processing</span>
+                <span className="px-3 py-1 bg-blue-100 dark:bg-blue-900 text-blue-800 dark:text-blue-100 rounded-full text-sm">NLP</span>
               </div>
               <motion.a
-                href="https://github.com/arshith4401/chatwithpdf"
+                href="https://github.com/arshith4401/chat_with_pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center text-blue-500 hover:text-blue-600 transition-colors"
